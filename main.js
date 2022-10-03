@@ -2,7 +2,8 @@ var MainTodoContainer = document.getElementById('todos');
 var input = document.querySelector('.todo_input');
 var addingBtn = document.querySelector('.add-item');
 var deleteAllBtn = document.querySelector('.deleteBtn');
-
+// Testing
+// Testing12
 addingBtn.addEventListener('click', function (e) {
     if (input.value.trim()) {
 
